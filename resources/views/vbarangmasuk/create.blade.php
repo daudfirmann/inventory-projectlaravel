@@ -48,7 +48,6 @@
                                 @enderror
                             </div>
 
-
                             <!-- Tambahkan input atau select lainnya sesuai kebutuhan -->
                             <button type="submit" class="btn btn-md btn-primary">ADD</button>
                             <button type="reset" class="btn btn-md btn-warning">RESET</button>
